@@ -31,11 +31,13 @@
 
 6. Give an example of a relation.  Determine a natural key for this relation.
 
-  An example of a relation is an employee's personal information. A natural key for this relation would be the employees social security number.
+  An example of a relation is a college student's information. R=(student_id,StudentFirst, StudentLast,phone, StudentDepartment). The natural key for this relation would be the student_id because it has a logical relation with the other attributes in the students records.
 
   For question 7 - 8, Consider product *orders*.  In particular, associated with an order is: customer name (first and last), address (street, city, state, zip), phone, email, the products orders (including item, quantity, and price).  
 
 7. Create a relational data model for *orders*.  Consider applying normalization rules (discuss Monday)
+
+  
 
 8. For customer, could email be used as a primary key?  If so, state why.  Also, if possible to use as a primary key, discuss any disadvantages of using email as a primary key.
   
