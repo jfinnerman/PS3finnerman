@@ -27,7 +27,7 @@
 
 5. If a relation has no duplicate data, how can you be sure there is always at least one primary key?
 
-  
+  You can add a foreign key to the table which then creates duplicate data.
 
 6. Give an example of a relation.  Determine a natural key for this relation.
 
@@ -38,6 +38,9 @@
 8. For customer, could email be used as a primary key?  If so, state why.  Also, if possible to use as a primary key, discuss any disadvantages of using email as a primary key.
 
 9. Given two relations S and R below find the Cartsian Product S x R. 
+
+  Every element of S has to be matched to R. (1,2,3,1,1,1,2,2,2,3,1,2,2,1,5,2,3,3,1,1,2,3,2,2,3,2,3,2,1,5)
+  
 10. Find the natural join between the Faculty and Department relations below.
 
   The natural join is Department.
