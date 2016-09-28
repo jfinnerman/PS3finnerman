@@ -2,9 +2,24 @@
 ## Problem Set 3 
 
 1. Define the terms: relation, tuple, attribute, record, and field.
+  
+  Relation: a set of tables
+  
+  Tuple:a record or row
+  
+  Attribute: a column or field
+  
+  Record:is also known as a tuple or row, it represents a structured data item in a table
+  
+  Field: also known as an attribute or column, an example of a field is a category in a column like weight, height, price, or manufacturer_id. 
+  
 2. What are keys in a relation?
 
+  Keys link a relation. Each table in the relation has a primary key which uniquely identifies tuples, or records, in that table. Some tables also contain foreign keys which indicates a relationship between tables. 
+
 3. What is a surrogate key and how is it used?
+
+  A surrogate key is a unique key which is an identifier for an record in a relation. A surrogate key can be a primary key. It is a system generated key and is factless.
 
 4. In the following equation, Area = Length x Width, identify the determinant(s).
 
