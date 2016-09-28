@@ -37,7 +37,7 @@
 
 7. Create a relational data model for *orders*.  Consider applying normalization rules (discuss Monday)
 
-  
+  (See attached picture in email)
 
 8. For customer, could email be used as a primary key?  If so, state why.  Also, if possible to use as a primary key, discuss any disadvantages of using email as a primary key.
   
